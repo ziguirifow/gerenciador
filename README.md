@@ -1,4 +1,4 @@
-# Aparecida Nutrição
+# Gerenciador de Empresas
 
 Projeto desenvolvido no curso de Java Servlets Parte 1 e 2 da Alura Cursos.
 
